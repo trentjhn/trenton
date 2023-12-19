@@ -1,0 +1,10 @@
+2022-07-03T17:12:31.092Z [debug] [main] Safe constructing new CMakeTools instance
+2022-07-03T17:12:31.092Z [debug] [variant] Constructing VariantManager
+2022-07-03T17:12:31.092Z [debug] [main] Constructing new CMakeTools instance
+2022-07-03T17:12:31.092Z [debug] [main] Starting CMakeTools second-phase init
+2022-07-03T17:12:31.336Z [info] [variant] Loaded new set of variants
+2022-07-03T17:12:31.337Z [debug] [main] CMakeTools instance initialization complete.
+2022-07-03T17:12:31.348Z [debug] [kit] Not reading non-existent kits file: /Users/trenton/.local/share/CMakeTools/cmake-tools-kits.json
+2022-07-03T17:12:31.349Z [debug] [kit] Not reading non-existent kits file: /Users/trenton/.vscode/cmake-kits.json
+2022-07-06T17:48:47.725Z [debug] [extension] Deactivate CMakeTools
+2022-07-06T17:48:47.771Z [fatal] [rollbar] Unhandled exception: Unhandled Promise rejection: Post-folder-open Canceled: Canceled {"folder":{"uri":{"$mid":1,"fsPath":"/Users/trenton","external":"file:///Users/trenton","path":"/Users/trenton","scheme":"file"},"name":"trenton","index":0}}

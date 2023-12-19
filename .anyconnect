@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AnyConnectPreferences>
+<DefaultUser>ttj7</DefaultUser>
+<DefaultSecondUser></DefaultSecondUser>
+<ClientCertificateThumbprint>0644140CF32F6D531F1BC0ABDEF2FEDA4215E51B</ClientCertificateThumbprint>
+<MultipleClientCertificateThumbprints></MultipleClientCertificateThumbprints>
+<ServerCertificateThumbprint></ServerCertificateThumbprint>
+<DefaultHostName>access.yale.edu</DefaultHostName>
+<DefaultHostAddress></DefaultHostAddress>
+<DefaultGroup></DefaultGroup>
+<ProxyHost></ProxyHost>
+<ProxyPort></ProxyPort>
+<SDITokenType>none</SDITokenType>
+<ControllablePreferences></ControllablePreferences>
+</AnyConnectPreferences>
